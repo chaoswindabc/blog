@@ -10,6 +10,20 @@
 }
 
 #aside-content.aside-content > .sticky_layout > .card-widget.card-clock > .card-glass > .card-background {
-    background-color: blue;
+    background-color: unset;
     box-shadow: unset;
+}
+
+div.big-userbox > div.userbox-left {
+    float: left;
+    width: 50%;
+}
+
+div.big-userbox > div.userbox-right {
+    float: right;
+    width: 50%;
+}
+
+div.ccer {
+    clear: both;
 }
