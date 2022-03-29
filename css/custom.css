@@ -14,19 +14,28 @@
     box-shadow: unset;
 }
 
+div.big-userbox {
+    height: 200px;
+}
+
 div.big-userbox > div.userbox-left {
     float: left;
-    width: 50%;
+    width: 40%;
+    height: 100%;
+    margin: auto;
 }
 
 div.big-userbox > div.userbox-right {
     float: right;
-    width: 50%;
+    width: 60%;
+    height: 100%;
+    margin: auto;
 }
 
 div.big-userbox > div.userbox-right > .description {
     color:pink;
     font-size:30px;
+    text-align: center;
 }
 
 div.ccer {
