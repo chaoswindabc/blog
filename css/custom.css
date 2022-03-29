@@ -21,14 +21,14 @@ div.big-userbox {
 div.big-userbox > div.userbox-left {
     float: left;
     width: 40%;
-    height: 99%;
+    height: 93%;
     margin: auto;
 }
 
 div.big-userbox > div.userbox-right {
     float: right;
     width: 60%;
-    height: 99%;
+    height: 93%;
     margin: auto;
 }
 
