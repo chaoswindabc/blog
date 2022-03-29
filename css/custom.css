@@ -24,6 +24,11 @@ div.big-userbox > div.userbox-right {
     width: 50%;
 }
 
+div.big-userbox > div.userbox-right > .description {
+    color:pink;
+    font-size:60px;
+}
+
 div.ccer {
     clear: both;
 }
