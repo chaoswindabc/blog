@@ -41,3 +41,8 @@ div.big-userbox > div.userbox-right > .description {
 div.ccer {
     clear: both;
 }
+
+img.small_icon {
+    width: 30px;
+    height: 30px;
+}
